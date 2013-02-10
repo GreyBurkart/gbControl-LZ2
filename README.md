@@ -6,7 +6,9 @@
 
 Instant gratification performance pad control for the Zebra2 synthesizer or any other mappable parameters for the MIDI-capable software/hardware of your choice. Lots of work left to do, this was a quick one to familiarize myself with the Lemur environment. iPad resolution only. Simple, straightforward.
 
-## Notes:
+**Bonus:** Similar controller layout for [TouchOSC](http://hexler.net/software/touchosc).
+
+## Notes on Lemur Template:
 * **Sliders**: Mod Wheel (cc1), Breath Controller (cc2), and Expression Pedal (cc11)
 * **Switch:** Turns friction on and off for the physics-enabled pads
 * **Audition:** Sends a C3 note (MIDI Note 60)
@@ -18,3 +20,5 @@ Thanks, – gb
 ---
 
 ![](gbControl-LZ2.png)
+
+![](gbControl-TZ2.png)
